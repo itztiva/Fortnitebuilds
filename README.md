@@ -134,6 +134,18 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 
 ## Season 8
+8.00-CL-5203069	28-02-19	UE4.22	https://cdn.fnbuilds.services/8.00.zip
+
+8.20-CL-N/A	27-03-19	UE4.23	https://cdn.fnbuilds.services/8.20.rar
+
+8.30-CL-N/A	10-04-19	UE4.23	https://cdn.fnbuilds.services/8.30.rar
+
+8.40-CL-N/A	17-04-19	UE4.23	https://cdn.fnbuilds.services/8.40.zip
+
+8.50-CL-6058028	25-04-19	UE4.23	https://cdn.fnbuilds.services/8.50.zip
+
+8.51-CL-N/A	02-05-19	UE4.23	https://cdn.fnbuilds.services/8.51.rar
+
 
 ## Season 9
 
