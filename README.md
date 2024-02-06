@@ -3,7 +3,7 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 
 # Pre Battle Royale
 
-OT0.6.5 : https://cdn.fnbuilds.services/OT0.6.5.zip
+OT0.6.5 : [Download](https://cdn.fnbuilds.services/OT0.6.5.zip)
 
 Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
