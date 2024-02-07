@@ -132,24 +132,51 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 7.40-CL-5046157 (7.40) : https://cdn.fnbuilds.services/7.40.rar
 
-
 ## Season 8
-8.00-CL-5203069 :	https://cdn.fnbuilds.services/8.00.zip
 
-8.20-CL-N/A	:	https://cdn.fnbuilds.services/8.20.rar
+8.00-CL-5203069 (8.00) :	https://cdn.fnbuilds.services/8.00.zip
 
-8.30-CL-N/A :	https://cdn.fnbuilds.services/8.30.rar
+8.20-CL-N/A (8.20)	:	https://cdn.fnbuilds.services/8.20.rar
 
-8.40-CL-N/A	:	https://cdn.fnbuilds.services/8.40.zip
+8.30-CL-N/A (8.30) :	https://cdn.fnbuilds.services/8.30.rar
 
-8.50-CL-6058028	:	https://cdn.fnbuilds.services/8.50.zip
+8.40-CL-N/A (8.40)	:	https://cdn.fnbuilds.services/8.40.zip
 
-8.51-CL-N/A	:	https://cdn.fnbuilds.services/8.51.rar
+8.50-CL-6058028	(8.50) :	https://cdn.fnbuilds.services/8.50.zip
 
+8.51-CL-N/A	(8.51) :	https://cdn.fnbuilds.services/8.51.rar
 
 ## Season 9
 
+9.00-CL-6337466 (9.00) : https://cdn.fnbuilds.services/9.00.zip
+
+9.01-CL-6428087 (9.01) : https://cdn.fnbuilds.services/9.01.zip
+
+9.10-CL-6639283 (9.10) : https://cdn.fnbuilds.services/9.10.rar
+
+9.20-CL-6822798 (9.20) : fomNLp5WNnJMCktOx0ehYYhXHjQ4PQ (MANIFEST Will have it's own link soon)
+
+9.21-CL-6922310 (9.21) : https://cdn.fnbuilds.services/9.21.zip
+
+9.30-CL-7095426 (9.30) : https://cdn.fnbuilds.services/9.30.zip
+
+9.40-CL-7315705 (9.40) : https://cdn.fnbuilds.services/9.40.zip
+
+9.41-CL-7609292 (9.41) : https://cdn.fnbuilds.services/9.41.rar
+
 ## Season 10
+
+10.00-CL-7704164 (10.00) : https://cdn.fnbuilds.services/10.00.zip
+
+10.10-CL-7955722 (10.10) : https://cdn.fnbuilds.services/10.10.zip
+
+10.20-CL-8456527 (10.20) : https://cdn.fnbuilds.services/10.20.zip
+
+10.30-CL-8569414 (10.30) : 9ZamWPoRkp27pBkCmEW67-k3ekT4ZQ (MANIFEST Will have it's own link soon)
+
+10.31-CL-8723043	(10.31) : https://cdn.fnbuilds.services/10.31.zip
+
+10.40-CL-9380822 (10.40) : https://cdn.fnbuilds.services/10.40.rar
  
 # Chapter 2
 
@@ -159,7 +186,7 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 
 # Credits 
-- [blk](https://github.com/simplyblk/) 
+- [blk](https://github.com/simplyblk/) for hosting most builds on their servers.
 - [notcrae](https://github.com/notkrae)
 - (Discord) zachthegamer#0 for 11.30 + 19.10
-- ByZN (@wallonia on discord) for helping with providing/putting all the links
+- ByZN (@wallonia on discord) for helping with providing/putting all the links and manifests.
