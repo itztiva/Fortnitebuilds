@@ -180,6 +180,56 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
  
 # Chapter 2
 
+## C2 Season 1
+
+11.00-CL-9562734 (older 11.00) : 5-0v4B3kpK4XpRczak2Pc7dtlqah1A (MANIFEST)
+
+11.00-CL-9603448 (11.00) : https://cdn.fnbuilds.services/11.00.zip
+
+11.01-CL-9728272	(11.01) :	QZRwNP2PFJA8ZRaJf0CvTdp_lifayg (MANIFEST)
+
+11.10-CL-9844520	(older 11.10) : 4Qd63MleE2D9iPwREU2lELyJc--PFA (MANIFEST)
+
+11.10-CL-9901083	(11.10) :	4uiD_B-WF9I5W4h1M0m11f7iQ8zu6g (MANIFEST)
+
+11.11-CL-10082788	(11.11) :	iVPwyvOxVsK6klhS1UeSRfQfJbPGZA (MANIFEST)
+
+11.20-CL-10297577 (older 11.20)	: nx1sa8DEmaw-9_I8YEiMZ50FaDr0AQ (MANIFEST)
+
+11.20-CL-10328358	(11.20) :	WmJlwXvlu0LMLVGGqUmXPy93OQSFBw (MANIFEST)
+
+11.21-CL-10481509	(11.21) :	fKa-ZiFTzVP69JIxIky1OfZ0KPZnMQ (MANIFEST)
+
+11.30-CL-10639804	(older 11.30) :	b26Zho3UFXcmjFwIy0G8T4x3tbX1yA (MANIFEST)
+
+11.30-CL-10708866	(11.30) : DDQp02DHMVKums1CD0a5qa-GxxTxJg (MANIFEST)
+
+11.31-CL-10800459 (11.31) : https://cdn.fnbuilds.services/11.31.rar
+
+11.40-CL-10951104	(even older 11.40)	:	gWTicfkWyAH3_8fpQEixmSUn0qhcSA (MANIFEST)
+
+11.40-CL-11039906	(older 11.40) :	jpzvVty5Z5mmS0h9y0O72YRP0hTjFA (MANIFEST)
+
+11.40-CL-11109625	(11.40) : MErWwWjI-gmQmpwUCE-smeOIJY_L-A (MANIFEST)
+
+11.50-CL-11204868 (older 11.50) :		skWUaAJHBVlghBWDmku50A2BNtOJ1Q (MANIFEST)
+
+11.50-CL-11265652	(11.50) :	o8omInZNucJoBbOSh0iU2JCJW5aV9w (MANIFEST)
+
+## C2 Season 2
+
+## C2 Season 3
+
+## C2 Season 4
+
+## C2 Season 5
+
+## C2 Season 6
+
+## C2 Season 7
+
+## C2 Season 8
+
 # Chapter 3 
 
 # Chapter 4 
