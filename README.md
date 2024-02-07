@@ -94,8 +94,6 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 6.00-CL-4395664 (6.00) : https://cdn.fnbuilds.services/6.00.rar
 
-6.00-CL-4402180 (6.00.1) : https://rebrand.ly/6_00_1 (DOWN)
-
 6.01-CL-4417689 (6.1) : https://cdn.fnbuilds.services/6.01.rar
 
 6.01-CL-4424678	(6.1.1) : https://cdn.fnbuilds.services/6.1.1.rar
@@ -109,8 +107,6 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 6.10-CL-4476098 (6.10.1) : https://cdn.fnbuilds.services/6.10.1.rar
 
 6.10-CL-4480234 (6.10.2) : https://cdn.fnbuilds.services/6.10.2.rar
-
-6.20-CL-4497486 (6.20) : https://rebrand.ly/6_20_0 (DOWN)
 
 6.21-CL-4526925 (6.21) : https://cdn.fnbuilds.services/6.21.rar
 
@@ -154,8 +150,6 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 9.10-CL-6639283 (9.10) : https://cdn.fnbuilds.services/9.10.rar
 
-9.20-CL-6822798 (9.20) : fomNLp5WNnJMCktOx0ehYYhXHjQ4PQ (MANIFEST Will have it's own link soon)
-
 9.21-CL-6922310 (9.21) : https://cdn.fnbuilds.services/9.21.zip
 
 9.30-CL-7095426 (9.30) : https://cdn.fnbuilds.services/9.30.zip
@@ -172,8 +166,6 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 10.20-CL-8456527 (10.20) : https://cdn.fnbuilds.services/10.20.zip
 
-10.30-CL-8569414 (10.30) : 9ZamWPoRkp27pBkCmEW67-k3ekT4ZQ (MANIFEST Will have it's own link soon)
-
 10.31-CL-8723043	(10.31) : https://cdn.fnbuilds.services/10.31.zip
 
 10.40-CL-9380822 (10.40) : https://cdn.fnbuilds.services/10.40.rar
@@ -182,69 +174,77 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 ## C2 Season 1
 
-11.00-CL-9562734 (old 11.00) : 5-0v4B3kpK4XpRczak2Pc7dtlqah1A (MANIFEST)
-
 11.00-CL-9603448 (11.00) : https://cdn.fnbuilds.services/11.00.zip
 
-11.01-CL-9728272	(11.01) :	QZRwNP2PFJA8ZRaJf0CvTdp_lifayg (MANIFEST)
-
-11.10-CL-9901083	(11.10) :	4uiD_B-WF9I5W4h1M0m11f7iQ8zu6g (MANIFEST)
-
-11.11-CL-10082788	(11.11) :	iVPwyvOxVsK6klhS1UeSRfQfJbPGZA (MANIFEST)
-
-11.20-CL-10328358	(11.20) :	WmJlwXvlu0LMLVGGqUmXPy93OQSFBw (MANIFEST)
-
-11.21-CL-10481509	(11.21) :	fKa-ZiFTzVP69JIxIky1OfZ0KPZnMQ (MANIFEST)
-
-11.30-CL-10708866	(11.30) : DDQp02DHMVKums1CD0a5qa-GxxTxJg (MANIFEST)
+11.30-CL-10708866	(11.30) : https://rebrand.ly/1130build
 
 11.31-CL-10800459 (11.31) : https://cdn.fnbuilds.services/11.31.rar
-
-11.40-CL-11109625	(11.40) : MErWwWjI-gmQmpwUCE-smeOIJY_L-A (MANIFEST)
-
-11.50-CL-11265652	(11.50) :	o8omInZNucJoBbOSh0iU2JCJW5aV9w (MANIFEST)
 
 ## C2 Season 2
 
 12.00-CL-11556442 (12.00) : https://cdn.fnbuilds.services/12.00.rar
 
-12.10-CL-11883027	(12.10) : 19R3rvzj1VXoJVLUlEyfNTi0HPeztQ (MANIFEST)
-
-12.20-CL-12236980 (12.20) : mVCAttTZSI3CLUbvdEmn1Yu08271-w (MANIFEST)
-
 12.21-CL-12353830	(12.21) : https://cdn.fnbuilds.services/12.21.zip
-
-12.30-CL-12624643 (12.30) : 4lcktXU--gKJ8XJo3EGtkKzNBGyGdQ (MANIFEST)
-
-12.40-CL-12837456 (12.40) : d_Or-l0fAsszcitXgE-_9nI4-TANLg (MANIFEST)
 
 12.41-CL-12905909 (12.41) : https://cdn.fnbuilds.services/Fortnite%2012.41.zip
 
 12.50-CL-13193885 (12.50) : https://cdn.fnbuilds.services/12.50.zip
 
-12.60-CL-13477524 (12.60) : FgKMa-wCOesX6Abl1kifJYcLTuJ-5A (MANIFEST)
-
 12.61-CL-13498980 (12.61) : https://cdn.fnbuilds.services/12.61.zip
 
 ## C2 Season 3
 
+13.00-CL-N/A (13.00) : https://cdn.fnbuilds.services/13.00.rar
+
+13.40-CL-14113327 (13.40) : https://cdn.fnbuilds.services/13.40.zip
+
 ## C2 Season 4
+
+14.00-CL-N/A	(14.00) : https://cdn.fnbuilds.services/14.00.rar
+
+14.40-CL-14550713 (14.40) : https://cdn.fnbuilds.services/14.40.rar
+
+14.60-CL-14786821	(14.60) : https://cdn.fnbuilds.services/14.60.rar
 
 ## C2 Season 5
 
+15.30-CL-15341163 (15.30) : https://cdn.fnbuilds.services/15.30.rar
+
 ## C2 Season 6
+
+16.40-CL-16218553 (16.40) : https://cdn.fnbuilds.services/16.40.rar
 
 ## C2 Season 7
 
+17.30-CL-N/A (17.30) : https://cdn.fnbuilds.services/17.30.zip
+
+17.50-CL-N/A (17.50) : https://cdn.fnbuilds.services/17.50.zip
+
 ## C2 Season 8
+
+18.40-CL-N/A (18.40) : https://cdn.fnbuilds.services/18.40.zip
 
 # Chapter 3 
 
-# Chapter 4 
+## C3 Season 1
 
+19.10-CL-N/A (19.10) : https://cdn.fnbuilds.services/19.10.rar
+
+## C3 Season 2
+
+20-40-CL-N/A (20.40) : https://build.itztiva.com/2040
+
+## C3 Season 3
+
+21.00-CL-N/A (21.00) : https://build.itztiva.com/2100
+
+# Chapter 4 
+22.40-CL-N/A (22.40) : Use legendary To install | https://build.itztiva.com/2240
+
+27.11-CL-N/A (27.11) : https://build.itztiva.com/fortniteog
 
 # Credits 
-- [blk](https://github.com/simplyblk/) for hosting most builds on their servers.
+- [blk](https://github.com/simplyblk/) for hosting most Chapter 1 Builds on their servers.
 - [notcrae](https://github.com/notkrae)
 - (Discord) zachthegamer#0 for 11.30 + 19.10
-- ByZN (@wallonia on discord) for helping with providing/putting all the links and manifests.
+- ByZN (@wallonia on discord) for helping with providing/putting most chapter 1 links.
