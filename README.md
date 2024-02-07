@@ -194,13 +194,13 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 ## C2 Season 3
 
-13.00-CL-N/A (13.00) : https://cdn.fnbuilds.services/13.00.rar
+13.00-CL-13715544 (13.00) : https://cdn.fnbuilds.services/13.00.rar
 
 13.40-CL-14113327 (13.40) : https://cdn.fnbuilds.services/13.40.zip
 
 ## C2 Season 4
 
-14.00-CL-N/A	(14.00) : https://cdn.fnbuilds.services/14.00.rar
+14.00-CL-14173417	(14.00) : https://cdn.fnbuilds.services/14.00.rar
 
 14.40-CL-14550713 (14.40) : https://cdn.fnbuilds.services/14.40.rar
 
@@ -216,32 +216,33 @@ Cert-CL-3532353 : https://rebrand.ly/1_2_X
 
 ## C2 Season 7
 
-17.30-CL-N/A (17.30) : https://cdn.fnbuilds.services/17.30.zip
+17.30-CL-17004569 (17.30) : https://cdn.fnbuilds.services/17.30.zip
 
-17.50-CL-N/A (17.50) : https://cdn.fnbuilds.services/17.50.zip
+17.50-CL-17388565 (17.50) : https://cdn.fnbuilds.services/17.50.zip
 
 ## C2 Season 8
 
-18.40-CL-N/A (18.40) : https://cdn.fnbuilds.services/18.40.zip
+18.40-CL-18163738 (18.40) : https://cdn.fnbuilds.services/18.40.zip
 
 # Chapter 3 
 
 ## C3 Season 1
 
-19.10-CL-N/A (19.10) : https://cdn.fnbuilds.services/19.10.rar
+19.10-CL-18675304 (19.10) : https://cdn.fnbuilds.services/19.10.rar
 
 ## C3 Season 2
 
-20-40-CL-N/A (20.40) : https://build.itztiva.com/2040
+20.40-CL-20244966	(20.40) : https://build.itztiva.com/2040
 
 ## C3 Season 3
 
-21.00-CL-N/A (21.00) : https://build.itztiva.com/2100
+21.00-CL-20548557 (21.00) : https://build.itztiva.com/2100
 
-# Chapter 4 
-22.40-CL-N/A (22.40) : Use legendary To install | https://build.itztiva.com/2240
+# Chapter 4
+ 
+22.40-CL-23070899 (22.40) : Use legendary To install | https://build.itztiva.com/2240
 
-27.11-CL-N/A (27.11) : https://build.itztiva.com/fortniteog
+27.11-CL-29739262 (27.11) : https://build.itztiva.com/fortniteog
 
 # Credits 
 - [blk](https://github.com/simplyblk/) for hosting most Chapter 1 Builds on their servers.
