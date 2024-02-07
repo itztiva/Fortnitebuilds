@@ -5,22 +5,22 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 
 OT0.6.5 : [Download](https://cdn.fnbuilds.services/OT0.6.5.zip)
 
-Cert-CL-3532353 : https://rebrand.ly/1_2_X
+Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
-1.2-CL-3541083 : https://rebrand.ly/1_2_0
+1.2-CL-3541083 : [Download](https://rebrand.ly/1_2_0)
 
 
 # Chapter 1 
 
 ## Season 0/1
 
-1.7.2-CL-3700114 : https://cdn.fnbuilds.services/1.7.2.zip
+1.7.2-CL-3700114 : [Download](https://cdn.fnbuilds.services/1.7.2.zip)
 
-1.8-CL-3724489 : https://cdn.fnbuilds.services/1.8.rar
+1.8-CL-3724489 : [Download](https://cdn.fnbuilds.services/1.8.rar)
 
-1.8.1-CL-3729133 : https://cdn.fnbuilds.services/1.8.1.rar
+1.8.1-CL-3729133 : [Download](https://cdn.fnbuilds.services/1.8.1.rar)
 
-1.8.2-CL-3741772 : https://cdn.fnbuilds.services/1.8.2.rar
+1.8.2-CL-3741772 : [Download](https://cdn.fnbuilds.services/1.8.2.rar)
 
 1.9-CL-3757339 : https://cdn.fnbuilds.services/1.9.rar
 
