@@ -6,6 +6,8 @@ If there's some errors or links down please contact Tiva or ByZN on discord : @i
 
 # Pre Battle Royale
 
+Fortnite Alpha (OT0.6.5 Modified for Mercury) : [Download](https://drive.google.com/file/d/1C-N5k2v2cMzXjxoW5i5o_naGYdqowXm2/view?usp=drivesdk)
+
 OT0.6.5 : [Download](https://cdn.fnbuilds.services/OT0.6.5.zip)
 
 Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
