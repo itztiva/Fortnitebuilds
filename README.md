@@ -17,8 +17,6 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## Season 0/1
 
-1.6.3-CL-Unknown : [Download](https://rebrand.ly/1_6_3)
-
 1.7.2-CL-3700114 : [Download](https://cdn.fnbuilds.services/1.7.2.zip)
 
 1.8-CL-3724489 : [Download](https://cdn.fnbuilds.services/1.8.rar)
