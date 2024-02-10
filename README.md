@@ -256,12 +256,19 @@ no archives :(
 # Additional Informations
 
 Chapter 3  Season 4 has no builds because it was never archived.
+
 1.6.3 and 1.7.2 are pratically the same, its just that 1.6.3 is a older build, which was the first BR iteration that released for free.
+
 To play builds above Chapter 1, i recommand using Carbon. https://discord.gg/carbon-897532507048796210
+
 To play Chapter 1 use Reboot or Rift (discontinued)
+
 You can play chapter 1 events using Reboot or Rift and above can be played using Carbon
+
 OT0.6.5 is NOT the oldest build of Fortnite ever, the oldest one was in 2010 and got lost over time. You can play OT0.6.5 using Mercure, but its a complicated procedure.
+
 Your Epic account won't get banned for using these builds.
+
 You can play C2S2 using Astro (vanity is astrofn), C1S7 using Era (v: erafn)
 
 # Credits 
