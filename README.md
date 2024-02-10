@@ -1,5 +1,8 @@
 # Fortnite Builds Archive
-All Archived Fortnite Builds currently, I am not the owner of any of these and I just got bored so I made this. Towards the bottom of the page will be credits to all the people where I have got these links from. I do not take credit for any of these links and All of the files used go towards their respective owners and I do not profit of this.  
+All Archived Fortnite Builds currently, I am not the owner of any of these and I just got bored so I made this. Towards the bottom of the page will be credits to all the people where I have got these links from. I do not take credit for any of these links and All of the files used go towards their respective owners and I do not profit of this.
+
+## READ PLEASE
+If there's some errors or links down please contact Tiva or ByZN on discord : @itztiva or @wallonia  
 
 # Pre Battle Royale
 
@@ -13,6 +16,8 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 # Chapter 1 
 
 ## Season 0/1
+
+1.6.3-CL-Unknown : [Download](https://rebrand.ly/1_6_3)
 
 1.7.2-CL-3700114 : [Download](https://cdn.fnbuilds.services/1.7.2.zip)
 
@@ -238,14 +243,29 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 21.00-CL-20548557 (21.00) : https://build.itztiva.com/2100
 
+## C3 Season 4
+
+no archives :(
+
 # Chapter 4
  
 22.40-CL-23070899 (22.40) : Use legendary To install | https://build.itztiva.com/2240
 
 27.11-CL-29739262 (27.11) : https://build.itztiva.com/fortniteog
 
+# Additional Informations
+
+Chapter 3  Season 4 has no builds because it was never archived.
+1.6.3 and 1.7.2 are pratically the same, its just that 1.6.3 is a older build, which was the first BR iteration that released for free.
+To play builds above Chapter 1, i recommand using Carbon. https://discord.gg/carbon-897532507048796210
+To play Chapter 1 use Reboot or Rift (discontinued)
+You can play chapter 1 events using Reboot or Rift and above can be played using Carbon
+OT0.6.5 is NOT the oldest build of Fortnite ever, the oldest one was in 2010 and got lost over time. You can play OT0.6.5 using Mercure, but its a complicated procedure.
+Your Epic account won't get banned for using these builds.
+You can play C2S2 using Astro (vanity is astrofn), C1S7 using Era (v: erafn)
+
 # Credits 
 - [blk](https://github.com/simplyblk/) for hosting most Chapter 1 Builds on their servers.
 - [notcrae](https://github.com/notkrae)
 - (Discord) zachthegamer#0 for 11.30 + 19.10
-- ByZN (@wallonia on discord) for helping with providing/putting most chapter 1 links.
+- ByZN (@wallonia on discord) for helping providing most links and adding Additional Informations
