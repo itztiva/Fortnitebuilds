@@ -248,8 +248,12 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 no archives :(
 
 # Chapter 4
+
+## C4 Season 1
  
 22.40-CL-23070899 (22.40) : Use legendary To install | https://build.itztiva.com/2240
+
+## C4 Season OG
 
 27.11-CL-29739262 (27.11) : https://build.itztiva.com/fortniteog
 
