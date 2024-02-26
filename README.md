@@ -255,7 +255,7 @@ No archives :(
 
 ## C4 Season 2
  
-24.40-CL-23070899 (22.40) : Use legendary To install | [Download](https://build.itztiva.com/2240)
+24.40-CL-23070899 (24.40) : Use legendary To install | [Download](https://build.itztiva.com/2240)
 
 ## C4 Season OG
 
