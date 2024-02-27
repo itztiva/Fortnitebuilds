@@ -277,7 +277,7 @@ OT0.6.5 is NOT the oldest build of Fortnite ever, the oldest one was in 2010 and
 
 Your Epic account won't get banned for using these builds.
 
-You can play C2S2 using Astro (vanity is astrofn), C1S7 using Era (v: erafn)
+You can play C1S7 using Nova (v: novafn), C2S2 using Astro (vanity is astrofn), C1S8 using Era (v: erafn)
 
 ## Playable Events
 
