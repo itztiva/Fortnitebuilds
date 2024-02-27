@@ -12,72 +12,72 @@ OT0.6.5 : [Download](https://cdn.fnbuilds.services/OT0.6.5.zip)
 
 Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
-1.2-CL-3541083 : [Download](https://rebrand.ly/1_2_0)
+1.2-CL-3541083 (1.2) : [Download](https://rebrand.ly/1_2_0)
 
 
 # Chapter 1 
 
 ## Season 0/1
 
-1.7.2-CL-3700114 : [Download](https://cdn.fnbuilds.services/1.7.2.zip)
+1.7.2-CL-3700114 (1.7.2) : [Download](https://cdn.fnbuilds.services/1.7.2.zip)
 
-1.8-CL-3724489 : [Download](https://cdn.fnbuilds.services/1.8.rar)
+1.8-CL-3724489 (1.8) : [Download](https://cdn.fnbuilds.services/1.8.rar)
 
-1.8.1-CL-3729133 : [Download](https://cdn.fnbuilds.services/1.8.1.rar)
+1.8.1-CL-3729133 (1.8.1) : [Download](https://cdn.fnbuilds.services/1.8.1.rar)
 
-1.8.2-CL-3741772 : [Download](https://cdn.fnbuilds.services/1.8.2.rar)
+1.8.2-CL-3741772 (1.8.2) : [Download](https://cdn.fnbuilds.services/1.8.2.rar)
 
-1.9-CL-3757339 : [Download](https://cdn.fnbuilds.services/1.9.rar)
+1.9-CL-3757339 (1.9) : [Download](https://cdn.fnbuilds.services/1.9.rar)
 
-1.9.1-CL-3775276 : [Download](https://cdn.fnbuilds.services/1.9.1.rar)
+1.9.1-CL-3775276 (1.9.1) : [Download](https://cdn.fnbuilds.services/1.9.1.rar)
 
-1.10-CL-3790078 : [Download](https://cdn.fnbuilds.services/1.10.rar)
+1.10-CL-3790078 (1.10) : [Download](https://cdn.fnbuilds.services/1.10.rar)
 
 ## Season 2
 
-1.11-CL-3807424 : [Download](https://cdn.fnbuilds.services/1.11.zip)
+1.11-CL-3807424 (1.11) : [Download](https://cdn.fnbuilds.services/1.11.zip)
 
-2.1.0-CL-3825894 : [Download](https://cdn.fnbuilds.services/2.1.0.zip)
+2.1.0-CL-3825894 (2.1) : [Download](https://cdn.fnbuilds.services/2.1.0.zip)
 
-2.2.0-CL-3841827 : [Download](https://cdn.fnbuilds.services/2.2.0.rar)
+2.2.0-CL-3841827 (2.2) : [Download](https://cdn.fnbuilds.services/2.2.0.rar)
 
-2.3.0-CL-3847564 : [Download](https://cdn.fnbuilds.services/2.3.rar)
+2.3.0-CL-3847564 (2.3) : [Download](https://cdn.fnbuilds.services/2.3.rar)
 
-2.4.0-CL-3858292 : [Download](https://cdn.fnbuilds.services/2.4.0.zip)
+2.4.0-CL-3858292 (2.4) : [Download](https://cdn.fnbuilds.services/2.4.0.zip)
 
-2.4.2-CL-3870737 : [Download](https://cdn.fnbuilds.services/2.4.2.zip)
+2.4.2-CL-3870737 (2.4.2) : [Download](https://cdn.fnbuilds.services/2.4.2.zip)
 
-2.5.0-CL-3889387 : [Download](https://cdn.fnbuilds.services/2.5.0.rar)
+2.5.0-CL-3889387 (2.5) : [Download](https://cdn.fnbuilds.services/2.5.0.rar)
 
 ## Season 3
 
-3.0-CL-3901517 : [Download](https://cdn.fnbuilds.services/3.0.zip)
+3.0-CL-3901517 (3.0) : [Download](https://cdn.fnbuilds.services/3.0.zip)
 
 3.1-CL-3915963 (3.1) : [Download](https://cdn.fnbuilds.services/3.1.rar)
 
 3.1-CL-3917250 (3.1.1) : [Download](https://cdn.fnbuilds.services/3.1.1.zip)
 
-3.2-CL-3935073 : [Download](https://cdn.fnbuilds.services/3.2.zip)
+3.2-CL-3935073 (3.2) : [Download](https://cdn.fnbuilds.services/3.2.zip)
 
-3.3-CL-3942182 : [Download](https://cdn.fnbuilds.services/3.3.zip)
+3.3-CL-3942182 (3.3) : [Download](https://cdn.fnbuilds.services/3.3.zip)
 
-3.5-CL-4008490 : [Download](https://cdn.fnbuilds.services/3.5.zip)
+3.5-CL-4008490 (3.5) : [Download](https://cdn.fnbuilds.services/3.5.zip)
 
-3.6-CL-4019403 : [Download](https://cdn.fnbuilds.services/3.6.zip)
+3.6-CL-4019403 (3.6 : [Download](https://cdn.fnbuilds.services/3.6.zip)
 
 ## Season 4
 
-4.0-CL-4039451 : [Download](https://cdn.fnbuilds.services/4.0.zip)
+4.0-CL-4039451 (4.0) : [Download](https://cdn.fnbuilds.services/4.0.zip)
 
-4.1-CL-4053532 : [Download](https://cdn.fnbuilds.services/4.1.zip)
+4.1-CL-4053532 (4.1) : [Download](https://cdn.fnbuilds.services/4.1.zip)
 
-4.2-CL-4072250 : [Download](https://cdn.fnbuilds.services/4.2.zip)
+4.2-CL-4072250 (4.2) : [Download](https://cdn.fnbuilds.services/4.2.zip)
 
-4.4-CL-4117433 : [Download](https://cdn.fnbuilds.services/4.3.zip)
+4.4-CL-4117433 (4.4) : [Download](https://cdn.fnbuilds.services/4.3.zip)
 
-4.4.1-CL-4127312 : [Download](https://rebrand.ly/4_4_1)
+4.4.1-CL-4127312 (4.4.1) : [Download](https://rebrand.ly/4_4_1)
 
-4.5-CL-4159770 : [Download](https://cdn.fnbuilds.services/4.5.zip)
+4.5-CL-4159770 (4.5) : [Download](https://cdn.fnbuilds.services/4.5.zip)
 
 ## Season 5
 
@@ -85,15 +85,15 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 5.00-CL-4214610 (5.0.1) : [Download](https://cdn.fnbuilds.services/5.0.1.rar)
 
-5.10-CL-4240749 : [Download](https://cdn.fnbuilds.services/5.10.rar)
+5.10-CL-4240749 (5.10) : [Download](https://cdn.fnbuilds.services/5.10.rar)
 
-5.21-CL-4288479 : [Download](https://cdn.fnbuilds.services/5.21.rar)
+5.21-CL-4288479 (5.21) : [Download](https://cdn.fnbuilds.services/5.21.rar)
 
-5.30-CL-4305896 : [Download](https://cdn.fnbuilds.services/5.30.rar)
+5.30-CL-4305896 (5.30) : [Download](https://cdn.fnbuilds.services/5.30.rar)
 
-5.40-CL-4352937 : [Download](https://cdn.fnbuilds.services/5.40.rar)
+5.40-CL-4352937 (5.40) : [Download](https://cdn.fnbuilds.services/5.40.rar)
 
-5.41-CL-4363240 : [Download](https://rebrand.ly/5_41)
+5.41-CL-4363240 : LINK WILL BE UP SOON BUT INSTALL FROM ERA FOR NOW
 
 ## Season 6
 
