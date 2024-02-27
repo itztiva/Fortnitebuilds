@@ -279,6 +279,51 @@ Your Epic account won't get banned for using these builds.
 
 You can play C2S2 using Astro (vanity is astrofn), C1S7 using Era (v: erafn)
 
+## Playable Events
+
+v3.6 - 16.2 GB | It's raining meteors | Play using Rift
+
+v4.5 - 23,0 GB | Blast Off┃ Play using Rift but keep in mind that 4.5 has a memory leak issue.
+
+v5.30 - 26,2 GB | Cube Spawning┃ No launcher currently known to run this mini event
+
+v5.41 - 26,7 GB | Cube Sinking┃ Play using Rift
+
+v6.21 - 25,1 GB | Butterfly┃ Rift, Carbon  and Reboot can support them but it's bugged.
+
+v7.20 - 31,7 GB | Ice King┃ Play using Rift, Carbon or Reboot
+
+v7.30 - 40,4 GB | Marshmello| Play using Rift, Carbon or Reboot, music will be missing
+
+v8.51 - 47,0 GB | Unvaulting┃ Play using Rift, Carbon or Reboot
+
+v9.40 - 55,1 GB | The Final Showdown┃ Play using Rift, Carbon or Reboot
+
+v10.40 - 60,8 GB | The End┃ Play using Rift, Carbon or Reboot (I recommand Reboot)
+
+v11.30 - 74,2 GB | Star Wars┃ Play using Rift, Carbon or Reboot
+
+v12.41 - 83,3 GB | Travis Scott┃ Play using Rift, Carbon or Reboot
+
+v12.61 - 85,1 GB | The Device┃ Play using Carbon or Rift
+
+v14.60 - 33,34 GB | The Devourer of Worlds┃ Play using Carbon or Rift
+
+v16.50 - 38,0 GB | Zero Crisis┃ Play using Carbon
+
+v17.30 - 41,3 GB | Rift Tour┃ Play using Carbon but it's bugged
+
+v17.50 - 41,7 GB | Operation: Sky Fire┃ Play using Carbon
+
+v18.40 - 43,1 GB | Chapter 2 Finale┃ Play using Carbon
+
+v20.40 - 37,9 GB | Collision / Collider Pulse┃ Play using Carbon
+
+v22.40 - 35,2 GB | Fracture - Chapter 3 Finale┃ Play using Carbon but it's bugged
+
+v27.11 - 31,1 GB | The Big Bang | Play using Carbon
+
+
 # Credits 
 - [blk](https://github.com/simplyblk/) for hosting most Chapter 1 Builds on their servers.
 - [notcrae](https://github.com/notkrae)
