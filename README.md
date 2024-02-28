@@ -279,8 +279,6 @@ No archives :(
 
 Chapter 3 Season 4 has no builds because it was never archived.
 
-1.6.3 and 1.7.2 are practically the same, it's just that 1.6.3 is an older build, which was the first BR iteration that released for free.
-
 To play builds above Chapter 1, I recommend using Carbon. [Carbon Discord](https://discord.gg/carbon-897532507048796210)
 
 To play Chapter 1 use Reboot or Rift (discontinued)
