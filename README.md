@@ -93,7 +93,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 5.40-CL-4352937 (5.40) : [Download](https://cdn.fnbuilds.services/5.40.rar)
 
-5.41-CL-4363240 : LINK WILL BE UP SOON BUT INSTALL FROM ERA FOR NOW
+5.41-CL-4363240 (5.41) : [Download](https://rebrand.ly/byzn_5_41)
 
 ## Season 6
 
