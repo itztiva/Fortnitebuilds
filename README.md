@@ -259,13 +259,13 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 4
 
-No archives :(
+yes archive
 
 # Chapter 4
 
 ## C4 Season 1
 
-No archives :(
+yes archive
 
 ## C4 Season 2
  
