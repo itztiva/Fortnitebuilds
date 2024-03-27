@@ -249,6 +249,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 19.10-CL-18675304 (19.10) : [Download](https://cdn.fnbuilds.services/19.10.rar)
 
+19.20-CL-18778007 (19.20) : [Download](https://drive.google.com/file/d/1LQkB7GMRynn4yjdQBormwljPJs_w4DPb/view?usp=sharing)
 ## C3 Season 2
 
 20.40-CL-20244966 (20.40) : [Download](https://build.itztiva.com/2040)
