@@ -113,7 +113,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 6.10-CL-4480234 (6.10.2) : [Download](https://cdn.fnbuilds.services/6.10.2.rar)
 
-6.20-CL-N/A (6.20) [Download](https://drive.google.com/file/d/16VG_KQCJ_oXN6mavQi-kmVbhjXr1_wxl/view?usp=sharing)
+6.20-CL-4497486 (6.20) [Download](https://drive.google.com/file/d/16VG_KQCJ_oXN6mavQi-kmVbhjXr1_wxl/view?usp=sharing)
 
 6.21-CL-4526925 (6.21) : [Download](https://cdn.fnbuilds.services/6.21.rar)
 
@@ -223,13 +223,13 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 15.30-CL-15341163 (15.30) : [Download](https://cdn.fnbuilds.services/15.30.rar)
 
-15.50-CL-N/A (15.50) : [Download](https://drive.google.com/file/d/1oIV90HsPU9cDfPucAmhg7aj4bH2PBrHD/view)
+15.50-CL-15526472 (15.50) : [Download](https://drive.google.com/file/d/1oIV90HsPU9cDfPucAmhg7aj4bH2PBrHD/view)
 
 ## C2 Season 6
 
 16.40-CL-16218553 (16.40) : [Download](https://cdn.fnbuilds.services/16.40.rar)
 
-16.50-CL-N/A (16.50) : [Download](https://drive.google.com/file/d/1OqbAianaZ8LN8DVo0bsiaEnNuWNhHp6x/view?usp=sharing)
+16.50-CL-16451367 (16.50) : [Download](https://drive.google.com/file/d/1OqbAianaZ8LN8DVo0bsiaEnNuWNhHp6x/view?usp=sharing)
 
 ## C2 Season 7
 
@@ -245,7 +245,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 1
 
-19.01-CL-N/A (19.01) : [Download](https://drive.google.com/file/d/1NjyLM4RgoxjK-xde-6xz3T2bcuIH4A9T/view?usp=sharing)
+19.01-CL-18489740 (19.01) : [Download](https://drive.google.com/file/d/1NjyLM4RgoxjK-xde-6xz3T2bcuIH4A9T/view?usp=sharing)
 
 19.10-CL-18675304 (19.10) : [Download](https://cdn.fnbuilds.services/19.10.rar)
 
