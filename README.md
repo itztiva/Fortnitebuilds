@@ -265,7 +265,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 4
 
-yes archive
+22.40-CL-23849827 (22.40) : [Download](https://drive.google.com/file/d/1Y6iPCUQDYnnxqRNwRhf7f_5xkthRSqqq/view?usp=sharing) (Torrent)
 
 # Chapter 4
 
