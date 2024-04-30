@@ -2,7 +2,11 @@
 All Archived Fortnite Builds currently, I am not the owner of any of these and I just got bored so I made this. Towards the bottom of the page will be credits to all the people where I have got these links from. I do not take credit for any of these links and All of the files used go towards their respective owners and I do not profit of this.
 
 ## READ PLEASE
-If there's some errors or links down please contact Tiva or ByZN on discord : @itztiva or @wallonia  
+If there's some errors or links down please contact Tiva or ByZN on discord : @itztiva or @wallonia
+
+ABOUT 20% OF OUR LINKS ARE DOWN
+
+Epic has killed our google drive links, which means google took them down on the order of epic games. But we will get them back up as soon as possible!  
 
 # Pre Battle Royale
 
@@ -12,7 +16,7 @@ OT0.6.5 : [Download](https://cdn.fnbuilds.services/OT0.6.5.zip)
 
 Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
-1.2-CL-3541083 (1.2) : [Download](https://rebrand.ly/1_2_0)
+1.2-CL-3541083 (1.2) : [Download](https://rebrand.ly/1_2_0) (DOWN)
 
 
 # Chapter 1 
@@ -75,7 +79,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 4.4-CL-4117433 (4.4) : [Download](https://cdn.fnbuilds.services/4.3.zip)
 
-4.4.1-CL-4127312 (4.4.1) : [Download](https://rebrand.ly/4_4_1)
+4.4.1-CL-4127312 (4.4.1) : [Download](https://rebrand.ly/4_4_1) (DOWN)
 
 4.5-CL-4159770 (4.5) : [Download](https://cdn.fnbuilds.services/4.5.zip)
 
@@ -113,7 +117,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 6.10-CL-4480234 (6.10.2) : [Download](https://cdn.fnbuilds.services/6.10.2.rar)
 
-6.20-CL-4497486 (6.20) [Download](https://drive.google.com/file/d/16VG_KQCJ_oXN6mavQi-kmVbhjXr1_wxl/view?usp=sharing)
+6.20-CL-4497486 (6.20) [Download](https://drive.google.com/file/d/16VG_KQCJ_oXN6mavQi-kmVbhjXr1_wxl/view?usp=sharing) (DOWN)
 
 6.21-CL-4526925 (6.21) : [Download](https://cdn.fnbuilds.services/6.21.rar)
 
@@ -157,7 +161,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 9.10-CL-6639283 (9.10) : [Download](https://cdn.fnbuilds.services/9.10.rar)
 
-9.20-CL-N/A (9.20) : [Download](https://drive.google.com/file/d/1Yh1JhuRR1k8q6EwCrB9QN5iz5P-zZDgB/view?usp=sharing)
+9.20-CL-N/A (9.20) : [Download](https://drive.google.com/file/d/1Yh1JhuRR1k8q6EwCrB9QN5iz5P-zZDgB/view?usp=sharing) (DOWN)
 
 9.21-CL-6922310 (9.21) : [Download](https://cdn.fnbuilds.services/9.21.zip)
 
@@ -175,7 +179,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 10.20-CL-8456527 (10.20) : [Download](https://cdn.fnbuilds.services/10.20.zip)
 
-10.30-CL-N/A (10.30) : [Download](https://drive.google.com/file/d/1wZZs864k5Jv9NJ6zPdlI5q4087BCpi9o/view?usp=sharing)
+10.30-CL-N/A (10.30) : [Download](https://drive.google.com/file/d/1wZZs864k5Jv9NJ6zPdlI5q4087BCpi9o/view?usp=sharing) (DOWN)
 
 10.31-CL-8723043 (10.31) : [Download](https://cdn.fnbuilds.services/10.31.zip)
 
@@ -187,9 +191,9 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 11.00-CL-9603448 (11.00) : [Download](https://cdn.fnbuilds.services/11.00.zip)
 
-11.01-CL-N/A (11.01) : [Download](https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing)
+11.01-CL-N/A (11.01) : [Download](https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing) (DOWN)
 
-11.30-CL-10708866 (11.30) : [Download](https://rebrand.ly/1130build)
+11.30-CL-10708866 (11.30) : [Download](https://rebrand.ly/1130build) (DOWN)
 
 11.31-CL-10800459 (11.31) : [Download](https://cdn.fnbuilds.services/11.31.rar)
 
@@ -223,13 +227,13 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 15.30-CL-15341163 (15.30) : [Download](https://cdn.fnbuilds.services/15.30.rar)
 
-15.50-CL-15526472 (15.50) : [Download](https://drive.google.com/file/d/1oIV90HsPU9cDfPucAmhg7aj4bH2PBrHD/view)
+15.50-CL-15526472 (15.50) : [Download](https://drive.google.com/file/d/1oIV90HsPU9cDfPucAmhg7aj4bH2PBrHD/view) (DOWN)
 
 ## C2 Season 6
 
 16.40-CL-16218553 (16.40) : [Download](https://cdn.fnbuilds.services/16.40.rar)
 
-16.50-CL-16451367 (16.50) : [Download](https://drive.google.com/file/d/1OqbAianaZ8LN8DVo0bsiaEnNuWNhHp6x/view?usp=sharing)
+16.50-CL-16451367 (16.50) : [Download](https://drive.google.com/file/d/1OqbAianaZ8LN8DVo0bsiaEnNuWNhHp6x/view?usp=sharing) (DOWN)
 
 ## C2 Season 7
 
@@ -245,18 +249,19 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 1
 
-19.01-CL-18489740 (19.01) : [Download](https://drive.google.com/file/d/1NjyLM4RgoxjK-xde-6xz3T2bcuIH4A9T/view?usp=sharing)
+19.01-CL-18489740 (19.01) : [Download](https://drive.google.com/file/d/1NjyLM4RgoxjK-xde-6xz3T2bcuIH4A9T/view?usp=sharing) (DOWN)
 
 19.10-CL-18675304 (19.10) : [Download](https://cdn.fnbuilds.services/19.10.rar)
 
-19.20-CL-18778007 (19.20) : [Download](https://drive.google.com/file/d/1LQkB7GMRynn4yjdQBormwljPJs_w4DPb/view?usp=sharing)
+19.20-CL-18778007 (19.20) : [Download](https://drive.google.com/file/d/1LQkB7GMRynn4yjdQBormwljPJs_w4DPb/view?usp=sharing) (DOWN)
+
 ## C3 Season 2
 
 20.40-CL-20244966 (20.40) : [Download](https://build.itztiva.com/2040)
 
 ## C3 Season 3
 
-21.00-CL-20548557 (21.00) : [Download](https://build.itztiva.com/2100)
+21.00-CL-20548557 (21.00) : [Download](https://build.itztiva.com/2100) (DOWN)
 
 ## C3 Season 4
 
@@ -266,7 +271,7 @@ yes archive
 
 ## C4 Season 1
 
-23.00-CL-23344627 (23.00)	[Download](https://drive.google.com/file/d/1CVTGxnm-idcOKw7P_DUuM4Tj_-sIdz8W/view?usp=sharing)
+23.00-CL-23344627 (23.00)	[Download](https://drive.google.com/file/d/1CVTGxnm-idcOKw7P_DUuM4Tj_-sIdz8W/view?usp=sharing) (DOWN)
 
 ## C4 Season 2
  
@@ -274,7 +279,7 @@ yes archive
 
 ## C4 Season OG
 
-27.11-CL-29739262 (27.11) : [Download](https://build.itztiva.com/fortniteog)
+27.11-CL-29739262 (27.11) : [Download](https://build.itztiva.com/fortniteog) (DOWN)
 
 # Additional Informations
 
