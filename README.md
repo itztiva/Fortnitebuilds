@@ -6,7 +6,9 @@ If there's some errors or links down please contact Tiva or ByZN on discord : @i
 
 ABOUT 20% OF OUR LINKS ARE DOWN
 
-Epic has killed our google drive links, which means google took them down on the order of epic games. But we will get them back up as soon as possible!  
+Epic has killed our google drive links, which means google took them down on the order of epic games. But we will get them back up as soon as possible!
+
+UPDATE : We added some google drive links, but since we dont have enough storage, we had to use "Torrents" it's a P2P download method with no risk. We still added a "Torrent" mention next to the download link in case you don't wan't to download Torrents. It is 100% safe, but do a virus scan after the download. (To download Torrents, please use µtorrent or Bittorrent)
 
 # Pre Battle Royale
 
