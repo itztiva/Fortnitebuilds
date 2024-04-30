@@ -193,7 +193,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 11.01-CL-N/A (11.01) : [Download](https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing) (DOWN)
 
-11.30-CL-10708866 (11.30) : [Download](https://rebrand.ly/1130build) (DOWN)
+11.30-CL-10708866 (11.30) : [Download](https://drive.google.com/file/d/1R5jmg8aKosXptiJvdqnnQBfhanKQjWe2/view?usp=sharing) (Torrent)
 
 11.31-CL-10800459 (11.31) : [Download](https://cdn.fnbuilds.services/11.31.rar)
 
