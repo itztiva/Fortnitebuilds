@@ -279,7 +279,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C4 Season OG
 
-27.11-CL-29739262 (27.11) : [Download](https://drive.google.com/file/d/1ocYVPGENv6thFqHSq8EUEUeGecSoVIEJ/view?usp=sharing)
+27.11-CL-29739262 (27.11) : [Download](https://drive.google.com/file/d/1ocYVPGENv6thFqHSq8EUEUeGecSoVIEJ/view?usp=sharing) (Torrent)
 
 # Additional Informations
 
