@@ -9,7 +9,9 @@ ABOUT 20% OF OUR LINKS ARE DOWN
 Epic has killed our google drive links, which means google took them down on the order of epic games. But we will get them back up as soon as possible!
 
 UPDATE : We added some google drive links, but since we dont have enough storage, we had to use "Torrents" it's a P2P download method with no risk. We still added a "Torrent" mention next to the download link in case you don't wan't to download Torrents. It is 100% safe, but do a virus scan after the download. (To download Torrents, please use µtorrent or Bittorrent)
-
+``` 
+Windows
+```
 # Pre Battle Royale
 
 Fortnite Alpha (OT0.6.5 Modified for Mercury) : [Download](https://drive.google.com/file/d/1C-N5k2v2cMzXjxoW5i5o_naGYdqowXm2/view?usp=drivesdk)
@@ -282,6 +284,13 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 ## C4 Season OG
 
 27.11-CL-29739262 (27.11) : [Download](https://drive.google.com/file/d/1ocYVPGENv6thFqHSq8EUEUeGecSoVIEJ/view?usp=sharing) (Torrent)
+
+
+```
+Android
+```
+
+Soon
 
 # Additional Informations
 
