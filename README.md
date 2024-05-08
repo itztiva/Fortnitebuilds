@@ -289,12 +289,24 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 ```
 Android
 ```
+# Chapter 1
 
-Soon
+## Season 5
+
+5.20-CL-4268994 (5.20) : [Download](https://drive.google.com/file/d/1pNE5UzOHyclZ8WzoBE_ZECrgYGuMK7aP/view?usp=sharing)
+
+5.21-CL-4284747 (5.21) : [Download](https://drive.google.com/file/d/1-knsEYQwouxv6c83kEQxM_ci8g5UFdIi/view?usp=sharing)
+
+5.30-CL-4312945 (5.30) : [Download](https://drive.google.com/file/d/1tBn6ml52iJ36wtTifR1mjrZur30SCB1l/view?usp=sharing)
+
+5.40-CL-4349476 (5.40) : [Download](https://drive.google.com/file/d/17a_oUdE7GXoiKo3SfPt49W6jpKeOZ5qZ/view?usp=sharing)
+
+5.41-CL-4363240 (5.41) : [Download](https://drive.google.com/file/d/1mIk0ZfDtQ-4O5SI3cGdoy_XEqkyyLQBv/view?usp=sharing)
+
 
 # Additional Informations
 
-Chapter 3 Season 4 has no builds because it was never archived.
+Android released in Season 5, it's why there's no build before Season 5
 
 To play builds above Chapter 1, I recommend using Carbon. [Carbon Discord](https://discord.gg/carbon-897532507048796210)
 
