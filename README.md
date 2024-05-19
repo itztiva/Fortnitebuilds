@@ -182,7 +182,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## Season 10
 
-10.00-CL-7704164 (10.00) : [Download](https://cdn.fnbuilds.services/10.00.zip) <- down [Download](https://gofile.io/d/ykydl3)
+10.00-CL-7704164 (10.00) : [Download](https://cdn.fnbuilds.services/10.00.zip) <- down [Download](https://builds.ploosh.dev/10.00.rar)
 
 10.10-CL-7955722 (10.10) : [Download](https://cdn.fnbuilds.services/10.10.zip)
 
