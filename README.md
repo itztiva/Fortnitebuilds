@@ -180,7 +180,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## Season 10
 
-10.00-CL-7704164 (10.00) : [Download](https://public.simplyblk.xyz/10.00.zip) <- down [Download](https://builds.ploosh.dev/10.00.rar)
+10.00-CL-7704164 (10.00) : [Download](https://cdn.fnbuilds.xyz/10.00.rar)
 
 10.10-CL-7955722 (10.10) : [Download](https://public.simplyblk.xyz/10.10.zip)
 
@@ -190,7 +190,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 10.31-CL-8723043 (10.31) : [Download](https://public.simplyblk.xyz/10.31.zip)
 
-10.40-CL-9380822 (10.40) : [Download](https://public.simplyblk.xyz/10.40.rar)
+10.40-CL-9380822 (10.40) : [Download](https://cdn.fnbuilds.xyz/10.40.rar)
  
 # Chapter 2
 
