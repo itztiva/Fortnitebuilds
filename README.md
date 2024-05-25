@@ -341,7 +341,7 @@ v7.30 - 40,4 GB | Marshmello| Play using Rift, Carbon or Reboot, music will be m
 
 v8.51 - 47,0 GB | Unvaulting┃ Play using Rift, Carbon or Reboot
 
-v9.40 - 55,1 GB | The Final Showdown┃ Play using Rift, Carbon or Reboot
+v9.40 / v9.41 - 55,1 GB | The Final Showdown┃ Play using Rift, Carbon or Reboot
 
 v10.40 - 60,8 GB | The End┃ Play using Rift, Carbon or Reboot (I recommand Reboot)
 
