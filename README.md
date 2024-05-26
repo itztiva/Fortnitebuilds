@@ -195,7 +195,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 11.01-CL-N/A (11.01) : [Download](https://drive.google.com/file/d/1vW-dK7ACizDHZjRqQZILo95IzBzy9rqw/view?usp=sharing) (DOWN)
 
-11.30-CL-10708866 (11.30) : [Download](https://drive.google.com/file/d/1R5jmg8aKosXptiJvdqnnQBfhanKQjWe2/view?usp=sharing) (Torrent)
+11.30-CL-10708866 (11.30) : torrent gone.
 
 11.31-CL-10800459 (11.31) : [Download](https://public.simplyblk.xyz/11.31.rar)
 
@@ -267,7 +267,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 4
 
-22.40-CL-23849827 (22.40) : [Download](https://drive.google.com/file/d/1Y6iPCUQDYnnxqRNwRhf7f_5xkthRSqqq/view?usp=sharing) (Torrent)
+22.40-CL-23849827 (22.40) : torrent gone.
 
 # Chapter 4
 
@@ -281,7 +281,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C4 Season OG
 
-27.11-CL-29739262 (27.11) : [Download](https://drive.google.com/file/d/1ocYVPGENv6thFqHSq8EUEUeGecSoVIEJ/view?usp=sharing) (Torrent)
+27.11-CL-29739262 (27.11) : torrent gone.
 
 
 ```
