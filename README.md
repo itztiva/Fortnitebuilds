@@ -251,7 +251,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 1
 
-19.01-CL-18489740 (19.01) : [Download](https://drive.google.com/file/d/1NjyLM4RgoxjK-xde-6xz3T2bcuIH4A9T/view?usp=sharing) (DOWN)
+19.01-CL-18489740 (19.01) : [Download](https://cdn.fnbuilds.xyz/19.01.zip) (DOWN)
 
 19.10-CL-18675304 (19.10) : [Download](https://public.simplyblk.xyz/19.10.rar)
 
