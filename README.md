@@ -4,10 +4,6 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down please contact Tiva or ByZN on discord : @itztiva or @wallonia
 
-ABOUT 20% OF OUR LINKS ARE DOWN
-
-Epic has killed our google drive links, which means google took them down on the order of epic games. But we will get them back up as soon as possible!
-
 UPDATE : We added some google drive links, but since we dont have enough storage, we had to use "Torrents" it's a P2P download method with no risk. We still added a "Torrent" mention next to the download link in case you don't wan't to download Torrents. It is 100% safe, but do a virus scan after the download. (To download Torrents, please use µtorrent or Bittorrent)
 
 ## Also play Solaris (discord.gg/solarisfn)
@@ -24,7 +20,6 @@ OT0.6.5 : [Download](https://public.simplyblk.xyz/OT0.6.5.zip)
 Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 1.2-CL-3541083 (1.2) : [Download](https://rebrand.ly/1_2_0) (DOWN)
-
 
 # Chapter 1 
 
@@ -309,19 +304,13 @@ Android
 
 # Additional Informations
 
-Android released in Season 5, it's why there's no build before Season 5
-
 To play builds above Chapter 1, I recommend using Carbon. [Carbon Discord](https://discord.gg/carbon-897532507048796210)
 
 To play Chapter 1 use Reboot or Rift (discontinued)
 
 You can play chapter 1 events using Reboot or Rift and above can be played using Carbon
 
-OT0.6.5 is NOT the oldest build of Fortnite ever, the oldest one was in 2010 and got lost over time. You can play OT0.6.5 using Mercure, but it's a complicated procedure.
-
 Your Epic account won't get banned for using these builds.
-
-You can play C1S7 using Nova (v: novafn), C2S2 using Astro (vanity is astrofn), C1S8 using Era (v: erafn)
 
 ## Playable Events
 
@@ -370,6 +359,6 @@ v27.11 - 31,1 GB | The Big Bang | Play using Carbon
 
 # Credits 
 - [blk](https://github.com/simplyblk/) for hosting most Chapter 1 Builds on their servers.
-- [notcrae](https://github.com/notkrae)
-- (Discord) zachthegamer#0 for 11.30 + 19.10
+- [notcrae](https://github.com/notkrae) and the rest of the carbon team!
+- [zachthegamer](https://www.youtube.com/@zachthegamerytr) for supplying some builds.
 - ByZN (@wallonia on discord) for helping provide most links and adding Additional Informations
