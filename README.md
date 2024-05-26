@@ -229,7 +229,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 15.30-CL-15341163 (15.30) : [Download](https://public.simplyblk.xyz/15.30.rar)
 
-15.50-CL-15526472 (15.50) : [Download](https://drive.google.com/file/d/1oIV90HsPU9cDfPucAmhg7aj4bH2PBrHD/view) (DOWN)
+15.50-CL-15526472 (15.50) : [Download](https://cdn.fnbuilds.xyz/15.50.rar) 
 
 ## C2 Season 6
 
