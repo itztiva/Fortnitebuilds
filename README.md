@@ -4,8 +4,6 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down please contact Tiva or ByZN on discord : @itztiva or @wallonia
 
-UPDATE : We added some google drive links, but since we dont have enough storage, we had to use "Torrents" it's a P2P download method with no risk. We still added a "Torrent" mention next to the download link in case you don't wan't to download Torrents. It is 100% safe, but do a virus scan after the download. (To download Torrents, please use µtorrent or Bittorrent)
-
 ``` 
 Windows
 ```
