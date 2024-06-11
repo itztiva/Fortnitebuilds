@@ -275,8 +275,6 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
  
 24.20-CL-23070899 (24.20) : [Temporary Download](https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link)
 
-) 
-
 ## C4 Season OG
 
 27.11-CL-29739262 (27.11) : torrent gone.
