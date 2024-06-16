@@ -95,7 +95,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 5.40-CL-4352937 (5.40) : [Download](https://public.simplyblk.xyz/5.40.rar)
 
-5.41-CL-4363240 (5.41) : [Download](https://cdn.fnbuilds.xyz/5.41-CL-4363240.rar)
+5.41-CL-4363240 (5.41) : [Download](https://drive.google.com/file/d/1BXkS3xLutGzYNW1pt51noUyE4Q4iWcjF/view?usp=sharing)
 
 ## Season 6
 
