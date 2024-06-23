@@ -199,6 +199,8 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 12.00-CL-11556442 (12.00) : [Download](https://public.simplyblk.xyz/12.00.rar)
 
+12.10-CL-12016987 (12.10) : [Download](https://www.dropbox.com/scl/fi/a7sqn8h4665alan06nwiz/Season-12.10.zip?rlkey=q6guue1cqdjzg3fd7wih88c61&dl=0)
+
 12.21-CL-12353830 (12.21) : [Download](https://public.simplyblk.xyz/12.21.zip)
 
 12.41-CL-12905909 (12.41) : [Download](https://public.simplyblk.xyz/Fortnite%2012.41.zip)
@@ -247,7 +249,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 1
 
-19.01-CL-18489740 (19.01) : [Download](https://cdn.fnbuilds.xyz/19.01.zip) (DOWN)
+19.01-CL-18489740 (19.01) : [Download](https://public.fnbuilds.xyz/19.01.rar)
 
 19.10-CL-18675304 (19.10) : [Download](https://public.simplyblk.xyz/19.10.rar)
 
@@ -260,6 +262,8 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 ## C3 Season 3
 
 21.00-CL-20548557 (21.00) : [Download](https://build.itztiva.com/2100) (DOWN)
+
+21.10-CL-21159871 (21.10) : [Download](https://public.fnbuilds.xyz/21.10.zip)
 
 ## C3 Season 4
 
