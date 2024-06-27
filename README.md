@@ -77,7 +77,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 4.4-CL-4117433 (4.4) : [Download](https://public.simplyblk.xyz/4.3.zip)
 
-4.4.1-CL-4127312 (4.4.1) : [Download](https://rebrand.ly/4_4_1) (DOWN)
+4.4.1-CL-4127312 (4.4.1) : [Download](https://drive.google.com/file/d/1vH7HuOlTWjdL2Ione1ZLKXmjTV2cYhrm/view)
 
 4.5-CL-4159770 (4.5) : [Download](https://public.simplyblk.xyz/4.5.zip)
 
