@@ -225,11 +225,15 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C2 Season 5
 
+15.00-CL-14984751 (15.00) : [Download](https://drive.google.com/file/d/1I15RzQoVZVgUbEZ4ckhWbpiRCr2c2Pmk/view?usp=sharing)
+
 15.30-CL-15341163 (15.30) : [Download](https://public.simplyblk.xyz/15.30.rar)
 
 15.50-CL-15526472 (15.50) : [Download](https://cdn.fnbuilds.xyz/15.50.rar) 
 
 ## C2 Season 6
+
+16.00-CL-16054793 (16.00) : [Download](https://drive.google.com/file/d/1eS9TZh8u0Ea0LhGvG1DIiCYVlNef_2RT/view)
 
 16.40-CL-16218553 (16.40) : [Download](https://public.simplyblk.xyz/16.40.rar)
 
@@ -242,6 +246,12 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 17.50-CL-17388565 (17.50) : [Download](https://public.simplyblk.xyz/17.50.zip)
 
 ## C2 Season 8
+
+18.00-CL-17847626 (18.00) : [Download](https://drive.google.com/file/d/1BJ9xXGsbNu5fhL1QF9bQl3Qk_xKfUnRT/view?usp=sharing)
+
+18.10-CL-17923647 (18.10) : [Download](https://drive.google.com/file/d/1GPrsK0YMGyGkaMhE13MvrtKj_ZBvl-FH/view?usp=sharing)
+
+18.21-CL-18017591 (18.21) : [Download](https://drive.google.com/file/d/1OSaD1OM4m1b2So_pIJyatwW8rW8n_VMJ/view?usp=sharing)
 
 18.40-CL-18163738 (18.40) : [Download](https://public.simplyblk.xyz/18.40.zip)
 
@@ -278,6 +288,14 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 ## C4 Season 2
  
 24.20-CL-23070899 (24.20) : [Temporary Download](https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link)
+
+## C4 Season 3
+
+Nothing for now
+
+## C4 Season 4
+
+26.30-CL-28798412 (26.30) : [Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)
 
 ## C4 Season OG
 
@@ -361,4 +379,5 @@ v27.11 - 31,1 GB | The Big Bang | Play using Carbon
 - [blk](https://github.com/simplyblk/) for hosting most Chapter 1 Builds on their servers.
 - [notcrae](https://github.com/notkrae) and the rest of the carbon team!
 - [zachthegamer](https://www.youtube.com/@zachthegamerytr) for supplying some builds.
+- kpmisparrot on discord for providing 15.00, 16.00, 18.00, 18.10, 18.21, 26.30.
 - ByZN (@wallonia on discord) for helping provide most links and adding Additional Informations
