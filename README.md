@@ -221,6 +221,8 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 14.00-CL-14173417 (14.00) : [Download](https://public.simplyblk.xyz/14.00.rar)
 
+14.30-CL-14456520 (14.30) : [Download using Easy Installer V2](https://github.com/simplyblk/EasyInstallerV2/releases/download/v1.0/EasyInstallerV2.exe)
+
 14.40-CL-14550713 (14.40) : [Download](https://public.simplyblk.xyz/14.40.rar)
 
 14.60-CL-14786821 (14.60) : [Download](https://public.simplyblk.xyz/14.60.rar)
@@ -228,6 +230,8 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 ## C2 Season 5
 
 15.00-CL-14984751 (15.00) : [Download](https://drive.google.com/file/d/1I15RzQoVZVgUbEZ4ckhWbpiRCr2c2Pmk/view?usp=sharing)
+
+15.10-CL-15014719 (15.10) : [Download](https://dl.dropbox.com/s/3xhcxqwyoegxjlm/15.10-CL-15014719.zip?dl=2)
 
 15.30-CL-15341163 (15.30) : [Download](https://public.simplyblk.xyz/15.30.rar)
 
@@ -279,7 +283,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 4
 
-22.40-CL-23849827 (22.40) : torrent gone.
+22.40-CL-23849827 (22.40) : [Manifest file](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest) [Use Legendary to download build using Manifest](https://github.com/derrod/legendary/releases/latest)
 
 # Chapter 4
 
