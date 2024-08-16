@@ -65,7 +65,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 3.5-CL-4008490 (3.5) : [Download](https://public.simplyblk.xyz/3.5.zip)
 
-3.6-CL-4019403 (3.6 : [Download 1](https://public.simplyblk.xyz/3.6.zip) [Download 2](https://drive.google.com/file/d/1U1z-PepqM67wl6IBY84CdA9enLsNXF3J/view?usp=sharing) If download 1 doesn't work, use the 2nd !
+3.6-CL-4019403 (3.6 : [Download 1](https://public.simplyblk.xyz/3.6.zip) | [Download 2](https://drive.google.com/file/d/1U1z-PepqM67wl6IBY84CdA9enLsNXF3J/view?usp=sharing) If download 1 doesn't work, use the 2nd !
 
 ## Season 4
 
