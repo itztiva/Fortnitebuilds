@@ -221,7 +221,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 14.00-CL-14173417 (14.00) : [Download](https://public.simplyblk.xyz/14.00.rar)
 
-14.30-CL-14456520 (14.30) : [Download using Easy Installer V2](https://github.com/simplyblk/EasyInstallerV2/releases/download/v1.0/EasyInstallerV2.exe)
+14.30-CL-14456520 (14.30) : [Download](https://gofile.io/d/HjrM87) | [Download using Easy Installer V2](https://github.com/simplyblk/EasyInstallerV2/releases/download/v1.0/EasyInstallerV2.exe)
 
 14.40-CL-14550713 (14.40) : [Download](https://public.simplyblk.xyz/14.40.rar)
 
