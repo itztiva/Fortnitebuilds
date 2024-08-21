@@ -295,7 +295,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C4 Season 2
  
-24.20-CL-23070899 (24.20) : [Temporary Download](https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link)
+24.20-CL-23070899 (24.20) : [Temporary Download](https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link) Download Down.
 
 ## C4 Season 3
 
