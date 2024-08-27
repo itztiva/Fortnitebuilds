@@ -193,7 +193,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 11.10-CL-N/A (11.10) : [Download](https://drive.google.com/file/d/1WJJ6ML7NejOrjSl9tRup32IghkaxczR2/view?usp=sharing)
 
-11.30-CL-10708866 (11.30) : torrent gone.
+11.30-CL-10708866 (11.30) : (DOWN)
 
 11.31-CL-10800459 (11.31) : [Download](https://public.simplyblk.xyz/11.31.rar)
 
