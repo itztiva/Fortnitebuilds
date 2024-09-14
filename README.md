@@ -15,8 +15,7 @@ OT0.6.5 : [Download](https://public.simplyblk.xyz/OT0.6.5.zip)
 
 Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
-1.2-CL-3541083 (1.2) : [Download](https://rebrand.ly/1_2_0) (DOWN)
-
+1.2-CL-3541083 (1.2) : [Download](https://drive.usercontent.google.com/download?id=1F3KgNqWWRL4dXAyAFQcEBWiojdSejK37&export=download)
 # Chapter 1 
 
 ## Season 0/1
