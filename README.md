@@ -2,7 +2,7 @@
 All Archived Fortnite Builds currently, I am not the owner of any of these and I just got bored so I made this. Towards the bottom of the page will be credits to all the people where I have got these links from. I do not take credit for any of these links and All of the files used go towards their respective owners and I do not profit of this.
 
 ## READ PLEASE
-If there's some errors or links down please contact Tiva or ByZN on discord : @itztiva or @wallonia
+If there's some errors or links down please contact ByZN on discord @wallonia <-- (Will most likely respond faster) or Tiva on discord @itztiva
 
 ``` 
 Windows
