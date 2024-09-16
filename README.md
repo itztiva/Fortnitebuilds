@@ -266,7 +266,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 1
 
-19.01-CL-18489740 (19.01) : [Download](https://public.fnbuilds.xyz/19.01.rar)
+19.01-CL-18489740 (19.01) : [Download](https://drive.google.com/file/d/1FO1W4NGAGOW5xNQVdDyEtPCiadq8_5sJ/view?usp=sharing)
 
 19.10-CL-18675304 (19.10) : [Download](https://public.simplyblk.xyz/19.10.rar)
 
@@ -278,13 +278,19 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C3 Season 3
 
-21.00-CL-20548557 (21.00) : [Download](https://build.itztiva.com/2100) (DOWN)
+21.00-CL-20548557 (21.00) : [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
 
-21.10-CL-21159871 (21.10) : [Download](https://public.fnbuilds.xyz/21.10.zip)
+21.10-CL-21159871 (21.10) : [Download 1](https://public.fnbuilds.xyz/21.10.zip) [Download 2](https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view?usp=sharing)
+
+21.20-CL-21179810 (21.20) : [Download](https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view?usp=sharing)
+
+21.50-CL-21245791 (21.50) : [Download](https://drive.google.com/file/d/1Q2hXieSYw2_aErVaLwle4tzJ75H-OpMj/view?usp=sharing)
 
 ## C3 Season 4
 
-22.40-CL-23849827 (22.40) : [Manifest file](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest) [Use Legendary to download build using Manifest](https://github.com/derrod/legendary/releases/latest)
+22.20-CL-23456978 (22.20) : [Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view?usp=sharing)
+
+22.40-CL-23849827 (22.40) : [Download](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) [Manifest file](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest) [Use Legendary to download build using Manifest](https://github.com/derrod/legendary/releases/latest)
 
 # Chapter 4
 
