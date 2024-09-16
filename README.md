@@ -234,7 +234,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 15.30-CL-15341163 (15.30) : [Download](https://public.simplyblk.xyz/15.30.rar)
 
-15.50-CL-15526472 (15.50) : [Download](https://cdn.fnbuilds.xyz/15.50.rar) 
+15.50-CL-15526472 (15.50) : [Download](https://drive.google.com/file/d/1SeBNHUDkDMxwjXCddyjnFMMR1lk0b13Y/view) 
 
 ## C2 Season 6
 
@@ -290,11 +290,13 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 ## C4 Season 1
 
-23.00-CL-23344627 (23.00)	[Download](https://drive.google.com/file/d/1CVTGxnm-idcOKw7P_DUuM4Tj_-sIdz8W/view?usp=sharing) (DOWN)
+23.00-CL-23344627 (23.00)	[Download](https://drive.google.com/file/d/1OtPDIJ2Q2Dg5by5D3dWm_U-65hKB9Ty4/view) (DOWN)
 
 ## C4 Season 2
  
 24.20-CL-23070899 (24.20) : [Temporary Download](https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link) Download Down.
+
+24.30-CL-23789416 (24.30) : [Download](https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view)
 
 ## C4 Season 3
 
@@ -387,4 +389,5 @@ v27.11 - 31,1 GB | The Big Bang | Play using Carbon
 - [notcrae](https://github.com/notkrae) and the rest of the carbon team!
 - [zachthegamer](https://www.youtube.com/@zachthegamerytr) for supplying some builds.
 - kpmisparrot on discord for providing 15.00, 16.00, 18.00, 18.10, 18.21, 26.30.
+- kapumalt for providing 24.30, 23.00 and 15.50
 - ByZN (@wallonia on discord) for helping provide most links and adding Additional Informations
