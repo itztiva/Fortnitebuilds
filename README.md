@@ -180,7 +180,7 @@ Cert-CL-3532353 : [Download](https://rebrand.ly/1_2_X)
 
 10.31-CL-8723043 (10.31) : [Download](https://public.simplyblk.xyz/10.31.zip)
 
-10.40-CL-9380822 (10.40) : [Download](https://cdn.fnbuilds.xyz/10.40.rar)
+10.40-CL-9380822 (10.40) : [Download](https://public.simplyblk.xyz/10.40.rar)
  
 # Chapter 2
 
