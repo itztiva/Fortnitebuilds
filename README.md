@@ -357,7 +357,7 @@ v5.41 - 26,7 GB | Cube Sinking┃ Play using Rift
 
 v6.21 - 25,1 GB | Butterfly┃ Rift, Carbon  and Reboot can support them but it's bugged.
 
-v7.20 - 31,7 GB | Ice King┃ Play using Rift, Carbon or Reboot
+v7.20 - 31,7 GB | Ice King┃ Play using Rift, Carbon
 
 v7.30 - 40,4 GB | Marshmello| Play using Rift, Carbon or Reboot, music will be missing
 
