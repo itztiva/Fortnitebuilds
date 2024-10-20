@@ -13,7 +13,7 @@ Windows
 
 Fortnite Alpha (OT0.6.5 Modified for Mercury) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
-OT0.6.5 : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+OT0.6.5 : ##Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 Cert-CL-3532353 : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
