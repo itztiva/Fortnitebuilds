@@ -6,6 +6,8 @@ If there's some errors or links down, it's because this repository is now outdat
 
 # This repository will be outdated, every new builds added will be on [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
+# Make sure to subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5) as he's the one who did everything here !
+
 ``` 
 Windows
 ```
