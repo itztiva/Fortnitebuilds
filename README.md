@@ -4,7 +4,7 @@ All Archived Fortnite Builds currently, I am not the owner of any of these and I
 ## READ PLEASE
 If there's some errors or links down, it's because this repository is now outdated, links are updated at [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main) (make sure to star the repository)
 
-# This repository will be outdated, every new builds added will be on [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+# This repository will be outdated, every new builds added will be on [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main) (star the repository)
 
 # Make sure to subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5) as he's the one who did everything here !
 
