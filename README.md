@@ -2,7 +2,7 @@
 All Archived Fortnite Builds currently, I am not the owner of any of these and I just got bored so I made this. Towards the bottom of the page will be credits to all the people where I have got these links from. I do not take credit for any of these links and All of the files used go towards their respective owners and I do not profit of this.
 
 ## READ PLEASE
-If there's some errors or links down, it's because this repository is now outdated, links are updated at [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+If there's some errors or links down, it's because this repository is now outdated, links are updated at [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main) (make sure to star the repository)
 
 # This repository will be outdated, every new builds added will be on [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
@@ -13,11 +13,11 @@ Windows
 
 Fortnite Alpha (OT0.6.5 Modified for Mercury) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
-OT0.6.5 : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+OT0.6.5 : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
-Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+Cert-CL-3532353 : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
-1.2-CL-3541083 (1.2) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+1.2-CL-3541083 (1.2) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 # Chapter 1 
 
 ## Season 0/1
@@ -116,7 +116,7 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 6.10-CL-4480234 (6.10.2) : [Download](https://public.simplyblk.xyz/6.10.2.rar)
 
-6.20-CL-4497486 (6.20) Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+6.20-CL-4497486 (6.20) ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 6.21-CL-4526925 (6.21) : [Download](https://public.simplyblk.xyz/6.21.rar)
 
@@ -160,7 +160,7 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 9.10-CL-6639283 (9.10) : [Download](https://public.simplyblk.xyz/9.10.rar)
 
-9.20-CL-N/A (9.20) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+9.20-CL-N/A (9.20) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 9.21-CL-6922310 (9.21) : [Download](https://public.simplyblk.xyz/9.21.zip)
 
@@ -178,7 +178,7 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 10.20-CL-8456527 (10.20) : [Download](https://public.simplyblk.xyz/10.20.zip)
 
-10.30-CL-N/A (10.30) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+10.30-CL-N/A (10.30) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 10.31-CL-8723043 (10.31) : [Download](https://public.simplyblk.xyz/10.31.zip)
 
@@ -190,11 +190,11 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 11.00-CL-9603448 (11.00) : [Download](https://public.simplyblk.xyz/11.00.zip)
 
-11.01-CL-N/A (11.01) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+11.01-CL-N/A (11.01) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 11.10-CL-N/A (11.10) : [Download](https://drive.google.com/file/d/1WJJ6ML7NejOrjSl9tRup32IghkaxczR2/view?usp=sharing)
 
-11.30-CL-10708866 (11.30) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+11.30-CL-10708866 (11.30) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 11.31-CL-10800459 (11.31) : [Download](https://public.simplyblk.xyz/11.31.rar)
 
@@ -206,7 +206,7 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 12.21-CL-12353830 (12.21) : [Download](https://public.simplyblk.xyz/12.21.zip)
 
-12.41-CL-12905909 (12.41) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+12.41-CL-12905909 (12.41) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 12.50-CL-13193885 (12.50) : [Download](https://public.simplyblk.xyz/12.50.zip)
 
@@ -222,7 +222,7 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 14.00-CL-14173417 (14.00) : [Download](https://public.simplyblk.xyz/14.00.rar)
 
-14.30-CL-14456520 (14.30) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+14.30-CL-14456520 (14.30) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 14.40-CL-14550713 (14.40) : [Download](https://public.simplyblk.xyz/14.40.rar)
 
@@ -246,7 +246,7 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 16.40-CL-16218553 (16.40) : [Download](https://public.simplyblk.xyz/16.40.rar)
 
-16.50-CL-16451367 (16.50) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+16.50-CL-16451367 (16.50) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 ## C2 Season 7
 
@@ -272,11 +272,11 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 19.10-CL-18675304 (19.10) : [Download](https://public.simplyblk.xyz/19.10.rar)
 
-19.20-CL-18778007 (19.20) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+19.20-CL-18778007 (19.20) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 ## C3 Season 2
 
-20.40-CL-20244966 (20.40) : Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+20.40-CL-20244966 (20.40) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 ## C3 Season 3
 
@@ -302,7 +302,7 @@ Cert-CL-3532353 : Down, will be updated at [this repository](https://github.com/
 
 ## C4 Season 2
  
-24.20-CL-23070899 (24.20) : [Temporary Download](https://drive.google.com/file/d/1RtE5L3XjYWI5G4sgewUeVMrUdQ2T3o89/view?usp=drive_link) Download Down.
+24.20-CL-23070899 (24.20) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 24.30-CL-23789416 (24.30) : [Download](https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view)
 
@@ -326,16 +326,15 @@ Android
 
 ## Season 5
 
-5.20-CL-4268994 (5.20) : [Download](https://drive.google.com/file/d/1pNE5UzOHyclZ8WzoBE_ZECrgYGuMK7aP/view?usp=sharing)
+5.20-CL-4268994 (5.20) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
-5.21-CL-4284747 (5.21) : [Download](https://drive.google.com/file/d/1-knsEYQwouxv6c83kEQxM_ci8g5UFdIi/view?usp=sharing)
+5.21-CL-4284747 (5.21) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
-5.30-CL-4312945 (5.30) : [Download](https://drive.google.com/file/d/1tBn6ml52iJ36wtTifR1mjrZur30SCB1l/view?usp=sharing)
+5.30-CL-4312945 (5.30) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
-5.40-CL-4349476 (5.40) : [Download](https://drive.google.com/file/d/17a_oUdE7GXoiKo3SfPt49W6jpKeOZ5qZ/view?usp=sharing)
+5.40-CL-4349476 (5.40) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
-5.41-CL-4363240 (5.41) : [Download](https://drive.google.com/file/d/1mIk0ZfDtQ-4O5SI3cGdoy_XEqkyyLQBv/view?usp=sharing)
-
+5.41-CL-4363240 (5.41) : ## Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 # Additional Informations
 
