@@ -2,7 +2,9 @@
 All Archived Fortnite Builds currently, I am not the owner of any of these and I just got bored so I made this. Towards the bottom of the page will be credits to all the people where I have got these links from. I do not take credit for any of these links and All of the files used go towards their respective owners and I do not profit of this.
 
 ## READ PLEASE
-If there's some errors or links down please contact ByZN on discord @wallonia <-- (Will most likely respond faster) or Tiva on discord @itztiva
+If there's some errors or links down, it's because this repository is now outdated, links are updated at [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
+
+# This repository will be outdated, every new builds added will be on [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
 
 ``` 
 Windows
