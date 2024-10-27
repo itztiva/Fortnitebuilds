@@ -1,13 +1,6 @@
 # Fortnite Builds Archive
 All Archived Fortnite Builds currently, I am not the owner of any of these and I just got bored so I made this. Towards the bottom of the page will be credits to all the people where I have got these links from. I do not take credit for any of these links and All of the files used go towards their respective owners and I do not profit of this.
 
-## READ PLEASE
-If there's some errors or links down, it's because this repository is now outdated, links are updated at [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main) (make sure to star the repository)
-
-# This repository will be outdated, every new builds added will be on [HERE](https://github.com/ByZNexus/Fortnite-Versions/tree/main) (star the repository)
-
-# Make sure to subscribe to [ByZNexus](https://www.youtube.com/@ByZNexu5) as he's the one who did everything here !
-
 ``` 
 Windows
 ```
@@ -338,10 +331,6 @@ Android
 
 5.41-CL-4363240 (5.41) : ***Down, will be updated at [this repository](https://github.com/ByZNexus/Fortnite-Versions/tree/main)***
 
-# Additional Informations
-
-## This repository is outdated, please use [https://github.com/ByZNexus/Fortnite-Versions/tree/main](https://github.com/ByZNexus/Fortnite-Versions/tree/main)
-
 ## Playable Events
 
 v3.6 - 16.2 GB | It's raining meteors | Play using Rift
@@ -393,5 +382,3 @@ v27.11 - 31,1 GB | The Big Bang | Play using Carbon
 - [zachthegamer](https://www.youtube.com/@zachthegamerytr) for supplying some builds.
 - kpmisparrot on discord for providing 15.00, 16.00, 18.00, 18.10, 18.21, 26.30.
 - kapumalt for providing 24.30, 23.00 and 15.50
-- ByZN (@wallonia on discord) for helping provide most links and adding Additional Informations
-- [https://github.com/ByZNexus/Fortnite-Versions/tree/main](For the updated version)
