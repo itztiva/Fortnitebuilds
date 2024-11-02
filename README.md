@@ -377,7 +377,7 @@ v27.11 - 31,1 GB | The Big Bang | Play using Carbon
 
 
 # Credits 
-- [blk](https://github.com/simplyblk/) for hosting most Chapter 1 Builds on their servers.
+- [blk](https://github.com/simplyblk/) For hosting most Chapter 1 Builds on their servers.
 - [notcrae](https://github.com/notkrae) and the rest of the carbon team!
 - [zachthegamer](https://www.youtube.com/@zachthegamerytr) for supplying some builds.
 - kpmisparrot on discord for providing 15.00, 16.00, 18.00, 18.10, 18.21, 26.30.
