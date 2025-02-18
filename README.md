@@ -275,7 +275,7 @@ Cert-CL-3532353 : ***Down***
 
 ## C3 Season 3
 
-21.00-CL-20548557 (21.00) : [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
+21.00-CL-20463113 (21.00) : [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
 
 21.10-CL-21159871 (21.10) : [Download 1](https://public.fnbuilds.xyz/21.10.zip) [Download 2](https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view?usp=sharing)
 
